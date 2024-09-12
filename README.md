@@ -6,7 +6,10 @@
   ผมเป็น Javascript / Typescript Developer! นอกจากนี้ ผมตอบเร็วเมื่อใช้ <a href='https://discord.gg/y9UsGAY9Z8'>Discord</a> ;)
 </h3>
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=%E0%B8%87%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%81)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&pause=100&width=435&lines=%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2;(%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%86%E0%B8%99%E0%B8%B0))](https://git.io/typing-svg)
 
 <div id="badges" align="center">
   <a href="https://twitch.tv/ccnope">
