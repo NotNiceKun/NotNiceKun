@@ -1,4 +1,4 @@
-![AdobeStock_655191239_Preview-removebg-preview](https://github.com/CcNicebruh/CcNicebruh/assets/92991362/d6c515e0-def1-4575-89a1-feec02ddea4e)
+![AdobeStock_655191239_Preview-removebg-preview](https://github.com/NotNiceKun/NotNiceKun/assets/92991362/d6c515e0-def1-4575-89a1-feec02ddea4e)
 
 <h1 align="left">โย่ววววววววววววว!!!</h1>
 
@@ -30,17 +30,17 @@
 
 <br />
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CcNicebruh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="github-readme-streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=notnicekun&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="github-readme-streak-stats" />
 </div>
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
 <div align="center">
 
-  ![face-hh](https://github-readme-stats.vercel.app/api?username=CcNicebruh&show_icons=true&theme=tokyonight&hide=["issues"])
+  ![face-hh](https://github-readme-stats.vercel.app/api?username=NotNiceKun&show_icons=true&theme=tokyonight&hide=["issues"])
 
-  ![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=CcNicebruh&show_icons=true&theme=tokyonight&layout=compact)
+  ![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=NotNiceKun&show_icons=true&theme=tokyonight&layout=compact)
 
 </div>
 
-![AdobeStock_655191239_Preview-removebg-preview](https://github.com/CcNicebruh/CcNicebruh/assets/92991362/2200459e-b87f-432a-827f-0cc70d7635b2)
+![AdobeStock_655191239_Preview-removebg-preview](https://github.com/NotNiceKun/NotNiceKun/assets/92991362/2200459e-b87f-432a-827f-0cc70d7635b2)
 
